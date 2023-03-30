@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"CUBE3",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Calendar')"
+		},
+		{
+			"@id":"Dimensions('Currency')"
+		},
+		{
+			"@id":"Dimensions('Depreciation')"
+		}
+	],
+	"Views@Code.links":[]
+}

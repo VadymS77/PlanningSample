@@ -1,0 +1,1 @@
+{"Version": "1.0","Name": "Git TM1","Ignore": ["Cubes","Dimensions","Processes", "!Cubes('capital')","!Cubes('CUBE4')","!Processes('create_default_subset')"],"Files": ["\\}externals\\git_applications\\*"],"Deployment": {},"PrePull": [],"PostPull": [],"PrePush": [],"PostPush": []}

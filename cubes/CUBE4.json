@@ -1,0 +1,21 @@
+{
+	"@type":"Cube",
+	"Name":"CUBE4",
+	"Rules@Code.link":"CUBE4.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Capital')"
+		},
+		{
+			"@id":"Dimensions('Compensation')"
+		},
+		{
+			"@id":"Dimensions('Currency Calc')"
+		},
+		{
+			"@id":"Dimensions('Employee')"
+		}
+	],
+	"Views@Code.links":[]
+}

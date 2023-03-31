@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"Cube_6",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Benefit')"
+		},
+		{
+			"@id":"Dimensions('Capital')"
+		},
+		{
+			"@id":"Dimensions('Allocation List')"
+		}
+	],
+	"Views@Code.links":[]
+}

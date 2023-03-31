@@ -1,0 +1,1 @@
+{"Version": "1.0","Name": "Git TM1","Ignore": ["Cubes","Dimensions","Processes", "!Cubes('Cube_6')"],"Deployment": {},"PrePull": [],"PostPull": [],"PrePush": [],"PostPush": []}
